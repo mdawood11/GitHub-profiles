@@ -73,7 +73,7 @@ body {
 }
 
 .user-info ul {
-  list-style: none;
+  list-style-type: none;
   display: flex;
   justify-content: space-between;
   padding: 0;
@@ -83,6 +83,7 @@ body {
 .user-info ul li {
   display: flex;
   align-items: center;
+  padding-right: 30px;
 }
 
 .user-info ul li strong {
